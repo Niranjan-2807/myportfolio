@@ -12,9 +12,8 @@ header h1{
     
 }
  .nametitle{
-     display: flex;
-     justify-content: center;
-     align-items: center;
+     margin-top:180px;
+    margin-left:25%;
      
  }
  .nametitle ul li{
